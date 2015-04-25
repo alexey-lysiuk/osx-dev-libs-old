@@ -32,11 +32,14 @@ Individual utilities
 * config.status: (autoconf)config.status Invocation. Recreating configurations.
 * configure: (autoconf)configure Invocation.    Configuring a package.
 * ifnames: (autoconf)ifnames Invocation.        Listing conditionals in source.
+* libtool-invocation: (libtool)Invoking libtool. Running the 'libtool' script.
+* libtoolize: (libtool)Invoking libtoolize.      Adding libtool support.
 * testsuite: (autoconf)testsuite Invocation.    Running an Autotest test suite.
 
 Software development
 * Autoconf: (autoconf).         Create source code configuration scripts.
 * Automake: (automake).         Making GNU standards-compliant Makefiles.
+* Libtool: (libtool).           Generic shared library support script.
 * help2man: (help2man).      Automatic manual page generation.
 
 GNU organization
