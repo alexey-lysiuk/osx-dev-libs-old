@@ -15,12 +15,14 @@ File: dir,	Node: Top	This is the top of the INFO tree
 * Menu:
 
 Individual utilities
+* aclocal-invocation: (automake)aclocal Invocation.   Generating aclocal.m4.
 * autoconf-invocation: (autoconf)autoconf Invocation.
                                 How to create configuration scripts
 * autoheader: (autoconf)autoheader Invocation.
                                 How to create configuration templates
 * autom4te: (autoconf)autom4te Invocation.
                                 The Autoconf executables backbone
+* automake-invocation: (automake)automake Invocation. Generating Makefile.in.
 * autoreconf: (autoconf)autoreconf Invocation.
                                 Remaking multiple `configure' scripts
 * autoscan: (autoconf)autoscan Invocation.
@@ -34,6 +36,7 @@ Individual utilities
 
 Software development
 * Autoconf: (autoconf).         Create source code configuration scripts.
+* Automake: (automake).         Making GNU standards-compliant Makefiles.
 
 GNU organization
 * Standards: (standards).       GNU coding standards.
