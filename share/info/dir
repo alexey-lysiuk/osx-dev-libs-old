@@ -37,6 +37,7 @@ Individual utilities
 Software development
 * Autoconf: (autoconf).         Create source code configuration scripts.
 * Automake: (automake).         Making GNU standards-compliant Makefiles.
+* help2man: (help2man).      Automatic manual page generation.
 
 GNU organization
 * Standards: (standards).       GNU coding standards.
